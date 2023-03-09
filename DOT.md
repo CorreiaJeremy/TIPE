@@ -29,7 +29,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 9 février 2023 : Idée n°1: algorithme de Dieu pour un rubik's cube.
 - Jeudi 2 mars 2023    : Idée n°2: création d'un jeu. Quelques idées: -jeu de foot (avec les frottements fluides sur la balle et tout)
 -                                                                     -jeu de minigolf (avec les frottements fluides du vent et tout)
-- Jeudi 9 mars 2023    : Validation du projet :
+- Jeudi 9 mars 2023    : Validation du projet : bah en fait les 2 :/ . Du coup continuation des recherches pour les 2 sujets.
 -
 -
 -
