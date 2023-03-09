@@ -27,9 +27,9 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus + création du dépôt (oui oui, là où tu es actuellement)
 - Jeudi 9 février 2023 : Idée n°1: algorithme de Dieu pour un rubik's cube.
-- Jeudi 2 mars 2023    : Id"e n°2: création d'un jeu. Quelques idées: -jeu de foot (avec les frottements fluides sur la balle et tout)
--                                                                     -jeu de mnigolf (avec les frottements fluides du vent et tout)
--                                                                     -
+- Jeudi 2 mars 2023    : Idée n°2: création d'un jeu. Quelques idées: -jeu de foot (avec les frottements fluides sur la balle et tout)
+-                                                                     -jeu de minigolf (avec les frottements fluides du vent et tout)
+- Jeudi 9 mars 2023    : Validation du projet :
 -
 -
 -
