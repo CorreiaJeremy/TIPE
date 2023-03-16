@@ -30,8 +30,9 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 mars 2023    : Idée n°2: création d'un jeu. Quelques idées: -jeu de foot (avec les frottements fluides sur la balle et tout)
 -                                                                     -jeu de minigolf (avec les frottements fluides du vent et tout)
 - Jeudi 9 mars 2023    : Validation du projet : bah en fait les 2 :/ . Du coup continuation des recherches pour les 2 sujets. Les frottements fluides ont l'air d'être très compliqués donc je vais sans garder le rubik's cube.
-- https://www.cours-gratuit.com/applications-langage-c/projet-de-saisie-d-un-rubik-s-cube-en-langage-c
--
+https://www.cours-gratuit.com/applications-langage-c/projet-de-saisie-d-un-rubik-s-cube-en-langage-c
+-Jeudi 16 mars 2023    : Continuation des recherches d'une problématique.
+https://youtu.be/YsWKrxAbopk
 -
 -
 -
