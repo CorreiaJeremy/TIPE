@@ -33,7 +33,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 https://www.cours-gratuit.com/applications-langage-c/projet-de-saisie-d-un-rubik-s-cube-en-langage-c
 -Jeudi 16 mars 2023    : Continuation des recherches d'une problématique.
 https://youtu.be/YsWKrxAbopk
--
+-Jeudi 23 mars 2023    : idée de truc à faire: chercher les nb de Dieu pour un autre cube que le 3x3 et en s'y inspirant
 -
 -
 -
