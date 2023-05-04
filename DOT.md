@@ -28,13 +28,13 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus + création du dépôt (oui oui, là où tu es actuellement)
 - Jeudi 9 février 2023 : Idée n°1: algorithme de Dieu pour un rubik's cube.
 - Jeudi 2 mars 2023    : Idée n°2: création d'un jeu. Quelques idées: -jeu de foot (avec les frottements fluides sur la balle et tout)
--                                                                     -jeu de minigolf (avec les frottements fluides du vent et tout)
+                                                                      -jeu de minigolf (avec les frottements fluides du vent et tout)
 - Jeudi 9 mars 2023    : Validation du projet : bah en fait les 2 :/ . Du coup continuation des recherches pour les 2 sujets. Les frottements fluides ont l'air d'être très compliqués donc je vais sans garder le rubik's cube.
 https://www.cours-gratuit.com/applications-langage-c/projet-de-saisie-d-un-rubik-s-cube-en-langage-c
 -Jeudi 16 mars 2023    : Continuation des recherches d'une problématique.
 https://youtu.be/YsWKrxAbopk
 -Jeudi 23 mars 2023    : idée de truc à faire: chercher les nb de Dieu pour un autre cube que le 3x3 et en s'y inspirant
--
+-Jeudi 4 mai 2023      : idée (encore): vérifier si un rubik's cube est résolvable ou pas https://speedcubeshop.com/a/blog/unsolvable-rubiks-cubes
 -
 -
 -
