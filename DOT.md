@@ -36,6 +36,6 @@ https://youtu.be/YsWKrxAbopk
 -Jeudi 23 mars 2023    : idée de truc à faire: chercher les nb de Dieu pour un autre cube que le 3x3 et en s'y inspirant
 -Jeudi 4 mai 2023      : idée (encore): vérifier si un rubik's cube est résolvable ou pas https://speedcubeshop.com/a/blog/unsolvable-rubiks-cubes
 -Jeudi 25 mai 20023    : https://www.youtube.com/watch?v=NqGgwDSvWvU
--
+-Jeudi 15 juin 2023    : mise à jour du DOT.md
 -
 
