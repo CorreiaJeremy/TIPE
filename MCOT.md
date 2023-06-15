@@ -45,8 +45,8 @@ Peut-on trouver le nombre de coup minimal pour résoudre un rubik's cube ?
 
 ## Références bibliographiques (2 à 10 références)
 
-1.Thèse de Emmanuel Volte pour trouver le nombre de Dieu
-2. 
+1.Thèse de Emmanuel Volte -> trouver le nombre de Dieu
+2.https://youtu.be/YsWKrxAbopk -> pour trouver le nombre de Dieu
 3. 
 4. 
 5. 
