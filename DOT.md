@@ -38,4 +38,5 @@ https://youtu.be/YsWKrxAbopk
 -Jeudi 25 mai 20023    : https://www.youtube.com/watch?v=NqGgwDSvWvU
 -Jeudi 15 juin 2023    : mise à jour du DOT.md
 -Jeudi 14 septembre    : https://archimede.mat.ulaval.ca/agirouard/mathematiques/Rubik.pdf pour une approche plus mathématiques du rubik's cube
+                         https://dms.umontreal.ca/~mlalin/clubrubikshow.pdf pareil
 
