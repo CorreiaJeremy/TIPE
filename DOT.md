@@ -40,4 +40,5 @@ https://youtu.be/YsWKrxAbopk
 -Jeudi 14 septembre    : https://archimede.mat.ulaval.ca/agirouard/mathematiques/Rubik.pdf pour une approche plus mathématiques du rubik's cube
                          https://dms.umontreal.ca/~mlalin/clubrubikshow.pdf pareil
                          https://tomas.rokicki.com/rubik20.pdf -> démontration du nombre de Dieu
+                         https://rubiks-cube-solver.com/ -> pour résoudre les cubes (en gros faut que je fasse comme eux)
 
