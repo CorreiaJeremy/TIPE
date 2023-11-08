@@ -9,8 +9,8 @@ Le Rubik's cube est un jeu.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
-1.Mathematiques : Algèbre (Théorie des Groupes)
-2.Informatique : Informatique  pratique
+- Mathematiques : Algèbre (Théorie des Groupes)
+- Informatique : Informatique  pratique
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
