@@ -39,7 +39,7 @@ Qu'est le nombre de Dieu et comment le trouver ?
 ## Objectifs du TIPE (max 100 mots)
 
 1.Déterminer mathématiquement le nombre de Dieu
-2.Déterminer informatiquement la meilleur solution pour résoudre un rubik's cube
+2.Déterminer informatiquement la meilleure solution pour résoudre un rubik's cube
 3.Trouver le plus court chemin d'un Graphe d'une très grande taille
 
 
