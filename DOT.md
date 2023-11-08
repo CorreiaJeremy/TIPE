@@ -41,4 +41,5 @@ https://youtu.be/YsWKrxAbopk
                          https://dms.umontreal.ca/~mlalin/clubrubikshow.pdf pareil
                          https://tomas.rokicki.com/rubik20.pdf -> démontration du nombre de Dieu
                          https://rubiks-cube-solver.com/ -> pour résoudre les cubes (en gros faut que je fasse comme eux)
+  -Mercredi 8 Novembre : https://culturemath.ens.fr/thematiques/superieur/les-maths-derriere-le-rubik-s-cube-et-son-petit-frere-le-taquin-a -> article en francais détaillant les maths derrière les rubik's cubes.
 
