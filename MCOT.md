@@ -45,7 +45,7 @@ Qu'est le nombre de Dieu et comment le trouver ?
 
 ## Références bibliographiques (2 à 10 références)
 
-1. [Thèse de Emmanuel Volte](https://tomas.rokicki.com/rubik20.pdf) -> trouver mathématiquement le nombre de Dieu
-2. https://youtu.be/YsWKrxAbopk -> pour estimer le nombre de Dieu
-3. https://www.rairo-ro.org/articles/ro/pdf/1996/04/ro1996300403331.pdf -> algorithmes de parcours de graphe + Algorithme du plus cours chemin
+1. [Thèse de Emmanuel Volte](https://tomas.rokicki.com/rubik20.pdf) -> Comment trouver mathématiquement le nombre de Dieu
+2. https://youtu.be/YsWKrxAbopk -> Éstimeation historique du nombre de Dieu
+3. https://www.rairo-ro.org/articles/ro/pdf/1996/04/ro1996300403331.pdf -> Algorithmes du plus cours chemin
 
