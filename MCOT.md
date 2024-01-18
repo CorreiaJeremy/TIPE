@@ -24,8 +24,8 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 1. Rubik's cube
 2. Nombre de Dieu
 3. Théorie des Groupes
-4. Parcours de graphe
-5. Algorithme du plus court chemin
+4. Algorithme du plus court chemin
+5. Heuristique
 
 
 ## Bibliographie commentée (max 650 mots)
