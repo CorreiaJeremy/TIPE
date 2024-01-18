@@ -2,10 +2,10 @@
 Le Nombre de Dieu : une résolution du Rubik's Cube en moins de 20 coups
 
 ## Motivations pour le choix du sujet
-J'aime les Rubik's Cube et je suis curieux de coder un algorithme capable d'en résoudre un. De plus, le Graphe des positions possibles pour un Rubik's Cube est gigantesque et je trouve intéressant d'étudier comment optimiser la recherche du plus court chemin de ce Graphe.
+
 
 ## Ancrage du sujet au thème de l'année
-Le Rubik's cube est un jeu.
+Le Rubik's cube est un jeu et il est également devneu au des années un sport: le speedcubing, une discipline qui consiste à résoudre un Rubik's Cube le plus vite possible.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
@@ -38,9 +38,8 @@ Qu'est le nombre de Dieu et comment le trouver ?
 
 ## Objectifs du TIPE (max 100 mots)
 
-1. Déterminer mathématiquement le nombre de Dieu
+1. Utiliser les mathématiques et l'informatique pour trouver le nombre de Dieu
 2. Déterminer informatiquement la meilleure solution pour résoudre un Rubik's Cube
-3. Trouver le plus court chemin d'un Graphe d'une très grande taille
 
 
 ## Références bibliographiques (2 à 10 références)
