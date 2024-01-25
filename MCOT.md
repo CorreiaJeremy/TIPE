@@ -2,10 +2,10 @@
 Le Nombre de Dieu : une résolution du Rubik's Cube en moins de 20 coups
 
 ## Motivations pour le choix du sujet
-
+Je trouve que le Rubik's cube est fascinant. Le résoudre est déjà un défi en soit, mais trouver la résolution avec le minimuim de coups possibles l'est encore plus. 
 
 ## Ancrage du sujet au thème de l'année
-Le Rubik's cube est un jeu et il est également devneu au des années un sport: le speedcubing, une discipline qui consiste à résoudre un Rubik's Cube le plus vite possible.
+Le Rubik's cube est un jeu et il est également devenu au fil des années un sport: le speedcubing, une discipline qui consiste à résoudre un Rubik's Cube le plus vite possible.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 
@@ -45,6 +45,8 @@ Qu'est le nombre de Dieu et comment le trouver ?
 ## Références bibliographiques (2 à 10 références)
 
 1. [Thèse de Emmanuel Volte](https://tomas.rokicki.com/rubik20.pdf) -> Comment trouver mathématiquement le nombre de Dieu
-2. https://youtu.be/YsWKrxAbopk -> Éstimeation historique du nombre de Dieu
+2. https://youtu.be/YsWKrxAbopk -> Estimation historique du nombre de Dieu
 3. https://www.rairo-ro.org/articles/ro/pdf/1996/04/ro1996300403331.pdf -> Algorithmes du plus cours chemin
-
+http://cube20.org/qtm/
+https://lerubikscube.com/erno-rubik-inventeur/#Les_algorithmes_de_resolution
+https://fr.wikipedia.org/wiki/Rubik's_Cube
